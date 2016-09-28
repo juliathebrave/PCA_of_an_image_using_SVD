@@ -2,8 +2,6 @@
 
 Part of a Women in Data Science tutorial covering Dimension Reduction
 
-[WiDS_Probability.ipynb](WiDS_Probability.ipynb)
-
 [SVD_Blair.ipynb](SVD_Blair.ipynb) explores an image of Tony Blair using PCA/SVD.
 
 [Blair.csv](Blair.csv) contains a preprocessed image the notebook uses, obtained from the dataset used in "Labeled Faces in the Wild".
