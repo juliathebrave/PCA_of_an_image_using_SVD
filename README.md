@@ -9,4 +9,4 @@ http://vis-www.cs.umass.edu/lfw/lfw-funneled.tgz
 
 [figure_1.png](figure_1.png) is an example of a figure that could be produced using the notebook.
 
-The associated slide deck (authors @randirl17 and @juliathebrave) is found [here](http://docs.google.com/presentation/d/1yUHj71GrG4FHMxnr7OGPNkh84fENkzngdVlxSIixYLs/) .
+The associated slide deck (authors @randirl17 and @juliathebrave) is found [here](http://docs.google.com/presentation/d/1yUHj71GrG4FHMxnr7OGPNkh84fENkzngdVlxSIixYLs/).
